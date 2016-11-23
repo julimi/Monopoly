@@ -1,6 +1,6 @@
 #BB7K
 
-The Game of BuildingBuyer7000
+The Game of Monopoly
 
 * requirement of bb7k: [@bb7k.pdf](https://github.com/julimi/bb7k/blob/master/bb7k.pdf)
 * design of bb7k: [@design.pdf](https://github.com/julimi/bb7k/blob/master/design.pdf)
